@@ -1,0 +1,16 @@
+{
+    "languages": [
+        {
+            "icon": "img/icon-lang-vietnamese.png",
+            "alt": "Vietnam flag",
+            "name": "Vietnamese",
+            "proficiency": "Mother Tongue"
+        },
+        {
+            "icon": "img/icon-lang-english.png",
+            "alt": "England flag",
+            "name": "English",
+            "proficiency": "Upper Intermediate"
+        }
+    ]
+}

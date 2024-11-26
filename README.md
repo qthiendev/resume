@@ -1,9 +1,9 @@
-# 🌟 My Resume 🌟
+# 🌟 My Portfolio CV 🌟
 
-Welcome to my personal resume! This interactive and dynamic showcases my professional journey, technical skills, and projects, emphasizing my expertise as a software engineer.
+Welcome to my personal portfolio CV! This interactive and dynamic CV showcases my professional journey, technical skills, and projects, emphasizing my expertise as a software engineer.
 
 ### 🌐 Live Site
-🔗 [View My Live Resume](https://qthiendev.github.io/resume/)
+🔗 [View My Live Portfolio](https://qthiendev.github.io/Resume/)
 
 ---
 
@@ -74,7 +74,7 @@ Open the `index.html` file in your browser to view the CV.
 ## 💻 How to Use
 
 1. **View in Browser:**
-   - Open `index.html` to view the resume.
+   - Open `index.html` to view the portfolio.
 
 2. **Modify Content:**
    - Update the JSON files in the `data/` folder for content changes.
@@ -86,7 +86,7 @@ Open the `index.html` file in your browser to view the CV.
 
 ## 👨‍💻 About Me
 
-This resume reflects my dedication to software development and engineering. I am a detail-oriented individual with expertise in programming, web development, and problem-solving. I thrive in collaborative environments and am always eager to learn new technologies.
+This portfolio reflects my dedication to software development and engineering. I am a detail-oriented individual with expertise in programming, web development, and problem-solving. I thrive in collaborative environments and am always eager to learn new technologies.
 
 **Key Highlights:**
 
@@ -104,7 +104,7 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ---
 
-### 🌐 [Visit My Live Resume](https://qthiendev.github.io/resume/)
+### 🌐 [Visit My Live Portfolio](https://qthiendev.github.io/Resume/)
 
 Thank you for checking out my CV! Let’s connect and create amazing projects together! 💻
 

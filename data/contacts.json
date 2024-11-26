@@ -1,0 +1,21 @@
+{
+    "contacts": [
+      {
+        "icon": "icon-contact-mail.png",
+        "alt": "mail",
+        "link": "mailto:trinhquythien.dev@gmail.com",
+        "text": "trinhquythien.dev@gmail.com"
+      },
+      {
+        "icon": "icon-contact-address.png",
+        "alt": "address",
+        "link": "https://maps.app.goo.gl/9vywBrh4cEGvszdv7",
+        "text": "Cam Le Dist., Da Nang City"
+      },
+      {
+        "icon": "icon-contact-phone.png",
+        "alt": "phone",
+        "text": "0395 075 100"
+      }
+    ]
+}
