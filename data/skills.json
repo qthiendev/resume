@@ -1,0 +1,72 @@
+{
+    "skills": [
+        {
+            "icons": [
+                {
+                    "src": "img/icon-pl-c.png",
+                    "alt": "c"
+                },
+                {
+                    "src": "img/icon-pl-cpp.png",
+                    "alt": "cpp"
+                },
+                {
+                    "src": "img/icon-pl-cs.png",
+                    "alt": "csharp"
+                },
+                {
+                    "src": "img/icon-pl-java.png",
+                    "alt": "java"
+                },
+                {
+                    "src": "img/icon-pl-python.png",
+                    "alt": "python"
+                },
+                {
+                    "src": "img/icon-pl-rust.png",
+                    "alt": "rust"
+                },
+                {
+                    "src": "img/icon-pl-html.png",
+                    "alt": "html"
+                },
+                {
+                    "src": "img/icon-pl-css.png",
+                    "alt": "css"
+                },
+                {
+                    "src": "img/icon-pl-js.png",
+                    "alt": "js"
+                }
+            ]
+        },
+        {
+            "icons": [
+                {
+                    "src": "img/icon-pl-dotnet.png",
+                    "alt": ".net"
+                },
+                {
+                    "src": "img/icon-pl-dj.png",
+                    "alt": "django"
+                },
+                {
+                    "src": "img/icon-pl-springmvc.png",
+                    "alt": "spring mvc"
+                },
+                {
+                    "src": "img/icon-pl-nodejs.png",
+                    "alt": "nodejs"
+                },
+                {
+                    "src": "img/icon-pl-react.png",
+                    "alt": "react"
+                },
+                {
+                    "src": "img/icon-pl-laravel.png",
+                    "alt": "laravel"
+                }
+            ]
+        }
+    ]
+}

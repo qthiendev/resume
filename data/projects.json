@@ -1,0 +1,27 @@
+{
+    "projects": [
+        {
+            "time": "8/2022 - Present",
+            "id": "aquifer",
+            "title": "Aquifer OS",
+            "company": "Makati, National Capital Region, Philippines | Remote",
+            "link": "https://duytan.edu.vn/",
+            "details": [
+                "Designing, programming, and deploying the Kernel with a team of software engineers from the Philippines, Indonesia, and Vietnam.",
+                "Working on VMware to set up the operating system as well as ensure security."
+            ]
+        },
+        {
+            "time": "8/2021 - 6/2025",
+            "id": "cmu1",
+            "title": "Database Integration Website",
+            "company": "Duy Tan University, Da Nang, Viet Nam",
+            "link": "https://github.com/qthiendev/CMU-CS-445-FIS-Team-7",
+            "details": [
+                "Using NodeJS Framework to create dashboard for 2 legacy systems.",
+                "Project leader, collaboration with other 4 students.",
+                "Continuing update new libraries."
+            ]
+        }
+    ]
+}
