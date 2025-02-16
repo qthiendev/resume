@@ -42,7 +42,7 @@ h3 {
     align-items: stretch;
     min-height: 100vh;
     gap: 10px;
-    padding: 50px 0px;
+    padding: 50px 10px;
 }
 
 .left-sidebar {
@@ -73,7 +73,6 @@ h3 {
 }
 
 .basic-info #bio {
-    padding: 0px 20px;
     padding-top: 20px;
     font-size: 16px;
     font-style: italic;

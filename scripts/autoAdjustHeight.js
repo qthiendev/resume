@@ -42,7 +42,7 @@ const loaders = [
 
 Promise.race([
     Promise.all(loaders),
-    new Promise((resolve) => setTimeout(resolve, 500))
+    new Promise((resolve) => setTimeout(resolve, 1000))
 ]).then(() => {
     const overlay = document.getElementById("loading-overlay");
     overlay.classList.add("hidden");
