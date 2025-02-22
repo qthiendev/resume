@@ -19,7 +19,7 @@
 
     <div class="container">
 
-        
+
         <div class="left-sidebar">
 
             <img class="avatar" src="" alt="" />
@@ -48,6 +48,8 @@
                     <ul></ul>
                 </div>
             </div>
+
+            <button class="download-cv" onclick="downloadPDF()">Download my CV</button>
 
             <div class="page-content">
                 <ul>
@@ -127,6 +129,17 @@
         </div>
 
     </div>
+
+    <script>
+        function downloadPDF() {
+            const link = document.createElement('a');
+            link.href = 'data/TrinhQuyThien-CV.pdf';
+            link.download = 'TrinhQuyThien-CV.pdf';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    </script>
 
     <script src="./scripts/basicInfoReader.js" defer></script>
     <script src="./scripts/contactsReader.js" defer></script>

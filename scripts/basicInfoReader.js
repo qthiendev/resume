@@ -10,7 +10,7 @@ function populateBasicInfo(data) {
     basicInfo.innerHTML = `
       <p id="name">${data.name}</p>
       <p id="career">${data.career}</p>
-      <p id="bio">${data.bio}</p>
+      <p id="bio">${data.bio.replace(/\n/g, '<br>')}</p>
     `;
 
     const avatar = document.querySelector('.avatar');
