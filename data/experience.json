@@ -1,6 +1,15 @@
 {
     "experience": [
         {
+            "time": "02/2025 - present",
+            "position": "Software Engineer",
+            "company": "DAC-DTVN, Da Nang, Viet Nam",
+            "details": [
+                "I'm just start working here, update later😁."
+            ],
+            "link": "https://dac-datatech.vn/"
+        },
+        {
             "time": "11/2024 - 02/2025",
             "position": "Internship Trainee",
             "company": "DAC-DTVN, Da Nang, Viet Nam",
