@@ -1,6 +1,6 @@
 # 🌟 My Resume 🌟
 
-Welcome to my personal resume! This interactive and dynamic showcases my professional journey, technical skills, and projects, emphasizing my expertise as a software engineer.
+Welcome to my personal Resume! This interactive and dynamic showcases my professional journey, technical skills, and projects, emphasizing my expertise as a software engineer.
 
 ### 🌐 Live Site
 🔗 [View My Live Resume](https://qthiendev.github.io/resume/)
@@ -36,7 +36,7 @@ Clone this repository to your local machine:
 git clone https://github.com/qthiendev/Resume.git
 ```
 
-Open the `index.html` file in your browser to view the CV.
+Open the `index.html` file in your browser to view the.
 
 ---
 
@@ -74,7 +74,7 @@ Open the `index.html` file in your browser to view the CV.
 ## 💻 How to Use
 
 1. **View in Browser:**
-   - Open `index.html` to view the resume.
+   - Open `index.html` to view the Resume.
 
 2. **Modify Content:**
    - Update the JSON files in the `data/` folder for content changes.
@@ -86,7 +86,7 @@ Open the `index.html` file in your browser to view the CV.
 
 ## 👨‍💻 About Me
 
-This resume reflects my dedication to software development and engineering. I am a detail-oriented individual with expertise in programming, web development, and problem-solving. I thrive in collaborative environments and am always eager to learn new technologies.
+This Resume reflects my dedication to software development and engineering. I am a detail-oriented individual with expertise in programming, web development, and problem-solving. I thrive in collaborative environments and am always eager to learn new technologies.
 
 **Key Highlights:**
 
@@ -106,5 +106,4 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 ### 🌐 [Visit My Live Resume](https://qthiendev.github.io/resume/)
 
-Thank you for checking out my CV! Let’s connect and create amazing projects together! 💻
-
+Thank you for checking out my! Let’s connect and create amazing projects together! 💻

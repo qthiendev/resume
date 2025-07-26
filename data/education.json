@@ -1,0 +1,48 @@
+{
+	"education": [
+		{
+			"time": "08/2021 - 09/2025",
+			"id": "cmu",
+			"degree": "Bachelor of Software Engineering - CMU",
+			"institution": "Duy Tan University, Da Nang, Viet Nam",
+			"href": "https://duytan.edu.vn/",
+			"details": [
+				"Studying a globally accredited program in collaboration with Carnegie Mellon University.",
+				"GPA: 3.24/4.0"
+			]
+		},
+		{
+			"time": "04/2024",
+			"id": "google-it",
+			"degree": "IT Support Specialization",
+			"institution": "Google",
+			"href": "https://www.coursera.org/account/accomplishments/specialization/2RXAVC97Y03Y",
+			"details": [
+				"Learning how to provide end-to-end customer support, ranging from identifying problems to troubleshooting.",
+				"Specializing in Linux, Domain Name Systems, Command-Line Interface, and Binary Code."
+			]
+		},
+		{
+			"time": "04/2024",
+			"id": "google-pm",
+			"degree": "Project Management Specialization",
+			"institution": "Google",
+			"href": "https://www.coursera.org/account/accomplishments/specialization/WGMRY0DRPFFM",
+			"details": [
+				"Foundations of Agile project management with a focus on Scrum events, artifacts, and roles.",
+				"Practice strategic communication, problem-solving, and stakeholder management."
+			]
+		},
+		{
+			"time": "04/2024",
+			"id": "google-python",
+			"degree": "IT Automation with Python Specialization",
+			"institution": "Google",
+			"href": "https://www.coursera.org/account/accomplishments/specialization/U3TLTQENM7XS",
+			"details": [
+				"Manage IT resources at scale, both for physical machines and virtual machines in the cloud.",
+				"Analyze real-world IT problems and implement appropriate strategies to solve them."
+			]
+		}
+	]
+}

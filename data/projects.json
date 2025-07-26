@@ -1,0 +1,80 @@
+{
+	"projects": [
+		{
+			"time": "04/2025 – present",
+			"id": "dac-dialogone",
+			"title": "DialogOne",
+			"company": "DAC Data Technology Vietnam, Da Nang, Viet Nam",
+			"link": "#",
+			"details": [
+				"Marketing solution that is linked to the communications platform LINE."
+			]
+		},
+		{
+			"time": "02/2025 - 06/2025",
+			"id": "cmu-repair-dash",
+			"title": "Repair Dashboard",
+			"company": "Duy Tan University, Da Nang, Viet Nam",
+			"link": "https://github.com/qthiendev/Repair-Dash-System-BE",
+			"details": [
+				"Aims to revolutionize the way customers and repair service providers connect.",
+				"Using NodeJS with Express to create the backend part that provides a comprehensive suite of APIs for the system."
+			]
+		},
+		{
+			"time": "11/2024 – 02/2025",
+			"id": "dac-elearning",
+			"title": "E-Learning Website",
+			"company": "DAC Data Technology Vietnam, Da Nang, Viet Nam",
+			"link": "https://github.com/dtvn-training/2024-DN-PHP-ELEARNING",
+			"details": [
+				"Using Laravel, ReactJS, and MySQL to create a website connecting between course providers and students.",
+				"Using Python to create an API to generate transcripts from videos and improve it by integrate Gemini AI."
+			]
+		},
+		{
+			"time": "09/2024 – 12/2024",
+			"id": "cmu-navcareer-ai",
+			"title": "Career Predict Model",
+			"company": "Duy Tan University, Da Nang, Viet Nam",
+			"link": "https://github.com/qthiendev/Career-Predict-Model",
+			"details": [
+				"Using Python and Random Forest Classifier to trained a model that suggesting careers.",
+				"Making a long-side with NavCareer."
+			]
+		},
+		{
+			"time": "09/2024 – 12/2024",
+			"id": "cmu-cap1",
+			"title": "NavCareer",
+			"company": "Duy Tan University, Da Nang, Viet Nam",
+			"link": "https://github.com/qthiendev/NavCareer_C1SE.15_12-2024",
+			"details": [
+				"Using NodeJS and ReactJS to create an e-learning page.",
+				"Project leader, collaboration with other 4 students."
+			]
+		},
+		{
+			"time": "02/2024 - 05/2024",
+			"id": "cmu1",
+			"title": "Database Integration Website",
+			"company": "Duy Tan University, Da Nang, Viet Nam",
+			"link": "https://github.com/qthiendev/CMU-CS-445-FIS-Team-7",
+			"details": [
+				"Using NodeJS Framework to create dashboard for 2 legacy systems.",
+				"Project leader, collaboration with other 4 students."
+			]
+		},
+		{
+			"time": "08/2022 - 01/2025",
+			"id": "aquifer",
+			"title": "Aquifer OS",
+			"company": "Makati, National Capital Region, Philippines | Remote",
+			"link": "",
+			"details": [
+				"Designing, programming, and deploying the Kernel with a team of software engineers from the Philippines, Indonesia, and Vietnam.",
+				"Working on VMware to set up the operating system as well as ensure security."
+			]
+		}
+	]
+}

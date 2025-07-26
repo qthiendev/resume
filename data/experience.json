@@ -1,0 +1,49 @@
+{
+	"experience": [
+		{
+			"time": "02/2025 - present",
+			"position": "Software Developer",
+			"company": "DAC-DTVN, Da Nang, Viet Nam",
+			"details": [
+				"Working on the DialogOne Project using Backbone.js and FuelPHP."
+			],
+			"link": "https://dac-datatech.vn/"
+		},
+		{
+			"time": "11/2024 - 02/2025",
+			"position": "Internship Trainee",
+			"company": "DAC-DTVN, Da Nang, Viet Nam",
+			"details": [
+				"Learning Basic and Advance knowledge about software development (Git, SQL, Scrum, ...).",
+				"Working on a training project using ReactJS for frontend development and Laravel PHP for backend development."
+			],
+			"link": "https://dac-datatech.vn/"
+		},
+		{
+			"time": "06/2023 - 09/2023",
+			"position": "Software Developer",
+			"company": "SmartDev, Da Nang, Viet Nam",
+			"details": [
+				"Working alongside a senior developer to maintain and enhance the VeryPay System, ensuring stability and performance."
+			],
+			"link": "https://smartdev.com/"
+		},
+		{
+			"time": "08/2022 - 01/2025",
+			"position": "Kernel Developer",
+			"company": "AQUIFER OS Crossing Team",
+			"details": [
+				"Developing an OS using Linux Kernel."
+			]
+		},
+		{
+			"time": "09/2020 - Present",
+			"position": "Founder",
+			"company": "Laboratory Mouse Studios, Dak Nong, Viet Nam",
+			"details": [
+				"Leading a creative studio specializing in outsourcing services for the gaming industry, including art, coding, and narrative development."
+			],
+			"link": "https://github.com/Laboratory-Mouse-Studios"
+		}
+	]
+}

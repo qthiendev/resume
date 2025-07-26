@@ -1,0 +1,24 @@
+{
+	"connects": [
+		{
+			"icon": "img/icon-media-facebook.png",
+			"alt": "Facebook",
+			"link": "https://www.facebook.com/qthien1612"
+		},
+		{
+			"icon": "img/icon-media-linkedin.png",
+			"alt": "LinkedIn",
+			"link": "https://www.linkedin.com/in/qthiendev/"
+		},
+		{
+			"icon": "img/icon-media-github.png",
+			"alt": "GitHub",
+			"link": "https://github.com/qthiendev"
+		},
+		{
+			"icon": "img/icon-media-youtube.png",
+			"alt": "YouTube",
+			"link": "https://www.youtube.com/@decseize"
+		}
+	]
+}
